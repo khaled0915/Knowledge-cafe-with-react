@@ -4,7 +4,7 @@
       "title": "The Adventure Begins",
       "cover": "https://i.ibb.co/TckKPK1/flat-lay-workstation-with-copy-space-laptop.jpg",
       "author": "John Doe",
-      "author_img": "https://example.com/author1.jpg",
+      "author_img": "src/assets/images/boy1.png",
       "posted_date": "2023-09-14",
       "reading_time": 45,
       "hashtags": ["Adventure", "Exploration", "Journey"]
@@ -12,9 +12,9 @@
     {
       "id": 2,
       "title": "Mystery of the Lost City",
-      "cover": "https://example.com/book2.jpg",
+      "cover": "https://i.ibb.co/txrkBDQ/nice-business-desk-black-background.jpg",
       "author": "Jane Smith",
-      "author_img": "https://example.com/author2.jpg",
+      "author_img": "src/assets/images/boy2.png",
       "posted_date": "2023-09-13",
       "reading_time": 60,
       "hashtags": ["Mystery", "Adventure", "Discovery"]
@@ -22,9 +22,9 @@
     {
       "id": 3,
       "title": "The Secret Garden",
-      "cover": "https://example.com/book3.jpg",
+      "cover": "https://i.ibb.co/0CJs4Nj/top-view-desk-concept-with-coffee.jpg",
       "author": "David Johnson",
-      "author_img": "https://example.com/author3.jpg",
+      "author_img": "src/assets/images/girl1.jpg",
       "posted_date": "2023-09-12",
       "reading_time": 30,
       "hashtags": ["Gardening", "Nature", "Secrets"]
@@ -32,10 +32,10 @@
     {
       "id": 4,
       "title": "A Tale of Two Cities",
-      "cover": "https://example.com/book4.jpg",
+      "cover": "https://i.ibb.co/SnSwfYm/retrosupply-j-Lw-VAUt-LOAQ-unsplash.jpg",
       "author": "Emily Brown",
-      "author_img": "https://example.com/author4.jpg",
-      "posted_date": "2023-09-11",
+      "author_img": "src/assets/images/girl2.jpg",
+      "posted_date": "2020-04-08",
       "reading_time": 90,
       "hashtags": ["Classics", "History", "Novel"]
     }
